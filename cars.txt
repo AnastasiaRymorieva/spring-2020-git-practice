@@ -3,9 +3,4 @@ Mazda
 Honda
 BMW
 Ford
-Audi
-Bentley
-Kia
-Jeep
-Hyundai
-Lexus
+
