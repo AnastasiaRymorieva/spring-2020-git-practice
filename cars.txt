@@ -7,3 +7,5 @@ Audi
 Bentley
 Kia
 Jeep
+Hyundai
+Lexus
