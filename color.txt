@@ -1,4 +1,6 @@
 red
 pink
 orange
-
+white
+black
+purple
