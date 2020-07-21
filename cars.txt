@@ -3,3 +3,6 @@ Mazda
 Honda
 BMW
 Ford
+Audi
+Bentley
+Kia
